@@ -14,7 +14,7 @@
     "svgo": "svgo -f src/icons/svg --config=src/icons/svgo.yml"
   },
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.21.1",
     "countup.js": "^2.0.4",
     "element-ui": "2.7.2",
     "file-saver": "^2.0.2",
